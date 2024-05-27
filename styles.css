@@ -1,9 +1,6 @@
-.div {
-    background-color: aliceblue;
-    
-}
-
-.div1 {
-    background-color: rgb(10, 118, 213);
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
